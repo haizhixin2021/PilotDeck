@@ -1,2 +1,11 @@
 packages:
   - 'ui'
+onlyBuiltDependencies:
+  - bcrypt
+  - better-sqlite3
+  - esbuild
+  - node-pty
+  - protobufjs
+  - sharp
+  - sqlite3
+  - unrs-resolver
